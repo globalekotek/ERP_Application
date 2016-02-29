@@ -1,0 +1,16 @@
+com\practise\springapp\config\CustomUserDetailsService.class
+com\practise\springapp\config\SecurityConfig.class
+com\practise\springapp\repositories\RoleRepository.class
+com\practise\springapp\web\config\SpringWebAppInitializer.class
+com\practise\springapp\web\config\WebMvcConfig.class
+com\practise\springapp\dao\UserDao.class
+com\practise\springapp\config\PersistenceConfig.class
+com\practise\springapp\dao\JpaUserDaoImpl.class
+com\practise\springapp\repositories\UserRepository.class
+com\practise\springapp\web\controllers\UserResource.class
+com\practise\springapp\entities\Role.class
+com\practise\springapp\web\controllers\UserController.class
+com\practise\springapp\services\UserService.class
+com\practise\springapp\entities\User.class
+com\practise\springapp\config\AppConfig.class
+com\practise\springapp\web\config\SecurityUser.class
